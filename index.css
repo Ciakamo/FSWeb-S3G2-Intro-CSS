@@ -1,0 +1,36 @@
+.gezi-plan {
+  background-color: #ff764e;
+  border-radius: 5px;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 15px;
+  display: inline-block;
+  padding: 10px 20px 10px 10px;
+}
+
+.bilgi-edin {
+  background-color: #5ed3eb;
+  border-radius: 5px;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 15px;
+  display: inline-block;
+  padding: 10px 20px 10px 10px;
+}
+
+.karşılaş {
+  background-color: #ffcd69;
+  border-radius: 5px;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 15px;
+  display: inline-block;
+  padding: 10px 20px 10px 10px;
+}
+
+img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
